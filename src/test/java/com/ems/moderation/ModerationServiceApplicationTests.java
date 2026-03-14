@@ -1,4 +1,4 @@
-package com.ems.moderation.moderation.service;
+package com.ems.moderation;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
